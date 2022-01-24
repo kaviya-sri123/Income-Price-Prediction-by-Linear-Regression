@@ -1,0 +1,1 @@
+# Income-Price-Prediction-by-Linear-Regression
